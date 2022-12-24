@@ -1,0 +1,16 @@
+D:\PROGRAMY\6. FIGURY\obj\Debug\net5.0\6. FIGURY.csprojAssemblyReference.cache
+D:\PROGRAMY\6. FIGURY\obj\Debug\net5.0\6. FIGURY.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMY\6. FIGURY\obj\Debug\net5.0\6. FIGURY.AssemblyInfoInputs.cache
+D:\PROGRAMY\6. FIGURY\obj\Debug\net5.0\6. FIGURY.AssemblyInfo.cs
+D:\PROGRAMY\6. FIGURY\obj\Debug\net5.0\6. FIGURY.csproj.CoreCompileInputs.cache
+D:\PROGRAMY\6. FIGURY\bin\Debug\net5.0\6. FIGURY.exe
+D:\PROGRAMY\6. FIGURY\bin\Debug\net5.0\6. FIGURY.deps.json
+D:\PROGRAMY\6. FIGURY\bin\Debug\net5.0\6. FIGURY.runtimeconfig.json
+D:\PROGRAMY\6. FIGURY\bin\Debug\net5.0\6. FIGURY.runtimeconfig.dev.json
+D:\PROGRAMY\6. FIGURY\bin\Debug\net5.0\6. FIGURY.dll
+D:\PROGRAMY\6. FIGURY\bin\Debug\net5.0\ref\6. FIGURY.dll
+D:\PROGRAMY\6. FIGURY\bin\Debug\net5.0\6. FIGURY.pdb
+D:\PROGRAMY\6. FIGURY\obj\Debug\net5.0\6. FIGURY.dll
+D:\PROGRAMY\6. FIGURY\obj\Debug\net5.0\ref\6. FIGURY.dll
+D:\PROGRAMY\6. FIGURY\obj\Debug\net5.0\6. FIGURY.pdb
+D:\PROGRAMY\6. FIGURY\obj\Debug\net5.0\6. FIGURY.genruntimeconfig.cache

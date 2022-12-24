@@ -1,0 +1,16 @@
+d:\PROGRAMY\10. KOLEJKA FIFO\obj\Debug\net5.0\10. KOLEJKA FIFO.csprojAssemblyReference.cache
+d:\PROGRAMY\10. KOLEJKA FIFO\obj\Debug\net5.0\10. KOLEJKA FIFO.GeneratedMSBuildEditorConfig.editorconfig
+d:\PROGRAMY\10. KOLEJKA FIFO\obj\Debug\net5.0\10. KOLEJKA FIFO.AssemblyInfoInputs.cache
+d:\PROGRAMY\10. KOLEJKA FIFO\obj\Debug\net5.0\10. KOLEJKA FIFO.AssemblyInfo.cs
+d:\PROGRAMY\10. KOLEJKA FIFO\obj\Debug\net5.0\10. KOLEJKA FIFO.csproj.CoreCompileInputs.cache
+d:\PROGRAMY\10. KOLEJKA FIFO\bin\Debug\net5.0\10. KOLEJKA FIFO.exe
+d:\PROGRAMY\10. KOLEJKA FIFO\bin\Debug\net5.0\10. KOLEJKA FIFO.deps.json
+d:\PROGRAMY\10. KOLEJKA FIFO\bin\Debug\net5.0\10. KOLEJKA FIFO.runtimeconfig.json
+d:\PROGRAMY\10. KOLEJKA FIFO\bin\Debug\net5.0\10. KOLEJKA FIFO.runtimeconfig.dev.json
+d:\PROGRAMY\10. KOLEJKA FIFO\bin\Debug\net5.0\10. KOLEJKA FIFO.dll
+d:\PROGRAMY\10. KOLEJKA FIFO\bin\Debug\net5.0\ref\10. KOLEJKA FIFO.dll
+d:\PROGRAMY\10. KOLEJKA FIFO\bin\Debug\net5.0\10. KOLEJKA FIFO.pdb
+d:\PROGRAMY\10. KOLEJKA FIFO\obj\Debug\net5.0\10. KOLEJKA FIFO.dll
+d:\PROGRAMY\10. KOLEJKA FIFO\obj\Debug\net5.0\ref\10. KOLEJKA FIFO.dll
+d:\PROGRAMY\10. KOLEJKA FIFO\obj\Debug\net5.0\10. KOLEJKA FIFO.pdb
+d:\PROGRAMY\10. KOLEJKA FIFO\obj\Debug\net5.0\10. KOLEJKA FIFO.genruntimeconfig.cache

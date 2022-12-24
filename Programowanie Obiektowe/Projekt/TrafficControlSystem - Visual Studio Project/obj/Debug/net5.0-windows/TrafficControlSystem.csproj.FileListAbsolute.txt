@@ -1,0 +1,120 @@
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.csproj.AssemblyReference.cache
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\App.g.cs
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem_MarkupCompile.cache
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem_MarkupCompile.lref
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\bin\Debug\net5.0-windows\TrafficControlSystem.exe
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\bin\Debug\net5.0-windows\TrafficControlSystem.deps.json
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\bin\Debug\net5.0-windows\TrafficControlSystem.runtimeconfig.json
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\bin\Debug\net5.0-windows\TrafficControlSystem.runtimeconfig.dev.json
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\bin\Debug\net5.0-windows\TrafficControlSystem.dll
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\bin\Debug\net5.0-windows\ref\TrafficControlSystem.dll
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\bin\Debug\net5.0-windows\TrafficControlSystem.pdb
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\MainWindow.baml
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.g.resources
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.AssemblyInfoInputs.cache
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.AssemblyInfo.cs
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.csproj.CoreCompileInputs.cache
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.dll
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\ref\TrafficControlSystem.dll
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.pdb
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.genruntimeconfig.cache
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\Turnoff.g.cs
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\Turnoff.baml
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\AddFlight.g.cs
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\AddFlight.baml
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\RandomGenerate.g.cs
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\RandomGenerate.baml
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\Information.g.cs
+D:\PROGRAMY\TrafficControlSystem\TrafficControlSystem\obj\Debug\net5.0-windows\Information.baml
+C:\Users\magda\Desktop\TrafficControlSystem\bin\Debug\net5.0-windows\TrafficControlSystem.exe
+C:\Users\magda\Desktop\TrafficControlSystem\bin\Debug\net5.0-windows\TrafficControlSystem.deps.json
+C:\Users\magda\Desktop\TrafficControlSystem\bin\Debug\net5.0-windows\TrafficControlSystem.runtimeconfig.json
+C:\Users\magda\Desktop\TrafficControlSystem\bin\Debug\net5.0-windows\TrafficControlSystem.runtimeconfig.dev.json
+C:\Users\magda\Desktop\TrafficControlSystem\bin\Debug\net5.0-windows\TrafficControlSystem.dll
+C:\Users\magda\Desktop\TrafficControlSystem\bin\Debug\net5.0-windows\ref\TrafficControlSystem.dll
+C:\Users\magda\Desktop\TrafficControlSystem\bin\Debug\net5.0-windows\TrafficControlSystem.pdb
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.csproj.AssemblyReference.cache
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\AddFlight.g.cs
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\Information.g.cs
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\RandomGenerate.g.cs
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\Turnoff.g.cs
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem_MarkupCompile.cache
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem_MarkupCompile.lref
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\AddFlight.baml
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\Information.baml
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\RandomGenerate.baml
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\Turnoff.baml
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.g.resources
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.AssemblyInfoInputs.cache
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.AssemblyInfo.cs
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.csproj.CoreCompileInputs.cache
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.dll
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\ref\TrafficControlSystem.dll
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.pdb
+C:\Users\magda\Desktop\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.genruntimeconfig.cache
+D:\PROGRAMY\TrafficControlSystem\bin\Debug\net5.0-windows\TrafficControlSystem.exe
+D:\PROGRAMY\TrafficControlSystem\bin\Debug\net5.0-windows\TrafficControlSystem.deps.json
+D:\PROGRAMY\TrafficControlSystem\bin\Debug\net5.0-windows\TrafficControlSystem.runtimeconfig.json
+D:\PROGRAMY\TrafficControlSystem\bin\Debug\net5.0-windows\TrafficControlSystem.runtimeconfig.dev.json
+D:\PROGRAMY\TrafficControlSystem\bin\Debug\net5.0-windows\TrafficControlSystem.dll
+D:\PROGRAMY\TrafficControlSystem\bin\Debug\net5.0-windows\ref\TrafficControlSystem.dll
+D:\PROGRAMY\TrafficControlSystem\bin\Debug\net5.0-windows\TrafficControlSystem.pdb
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.csproj.AssemblyReference.cache
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\AddFlight.g.cs
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\Information.g.cs
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\RandomGenerate.g.cs
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\Turnoff.g.cs
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\App.g.cs
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem_MarkupCompile.cache
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem_MarkupCompile.lref
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\AddFlight.baml
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\Information.baml
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\MainWindow.baml
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\RandomGenerate.baml
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\Turnoff.baml
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.g.resources
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.AssemblyInfoInputs.cache
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.AssemblyInfo.cs
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.csproj.CoreCompileInputs.cache
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.dll
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\ref\TrafficControlSystem.dll
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.pdb
+D:\PROGRAMY\TrafficControlSystem\obj\Debug\net5.0-windows\TrafficControlSystem.genruntimeconfig.cache
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\bin\Debug\net5.0-windows\TrafficControlSystem.exe
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\bin\Debug\net5.0-windows\TrafficControlSystem.deps.json
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\bin\Debug\net5.0-windows\TrafficControlSystem.runtimeconfig.json
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\bin\Debug\net5.0-windows\TrafficControlSystem.runtimeconfig.dev.json
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\bin\Debug\net5.0-windows\TrafficControlSystem.dll
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\bin\Debug\net5.0-windows\ref\TrafficControlSystem.dll
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\bin\Debug\net5.0-windows\TrafficControlSystem.pdb
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\TrafficControlSystem.csproj.AssemblyReference.cache
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\AddFlight.g.cs
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\Information.g.cs
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\MainWindow.g.cs
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\RandomGenerate.g.cs
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\Turnoff.g.cs
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\App.g.cs
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\TrafficControlSystem_MarkupCompile.cache
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\TrafficControlSystem_MarkupCompile.lref
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\AddFlight.baml
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\Information.baml
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\MainWindow.baml
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\RandomGenerate.baml
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\Turnoff.baml
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\TrafficControlSystem.g.resources
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\TrafficControlSystem.GeneratedMSBuildEditorConfig.editorconfig
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\TrafficControlSystem.AssemblyInfoInputs.cache
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\TrafficControlSystem.AssemblyInfo.cs
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\TrafficControlSystem.csproj.CoreCompileInputs.cache
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\TrafficControlSystem.dll
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\ref\TrafficControlSystem.dll
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\TrafficControlSystem.pdb
+G:\STUDIA\Inżynierka\SEMESTR II\Programowanie Obiektowe\Projekt\TrafficControlSystem - Visual Studio Project\obj\Debug\net5.0-windows\TrafficControlSystem.genruntimeconfig.cache

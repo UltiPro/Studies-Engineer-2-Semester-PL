@@ -1,0 +1,16 @@
+d:\PROGRAMY\9. FIGRUY W\obj\Debug\net5.0\9. FIGRUY W.csprojAssemblyReference.cache
+d:\PROGRAMY\9. FIGRUY W\obj\Debug\net5.0\9. FIGRUY W.GeneratedMSBuildEditorConfig.editorconfig
+d:\PROGRAMY\9. FIGRUY W\obj\Debug\net5.0\9. FIGRUY W.AssemblyInfoInputs.cache
+d:\PROGRAMY\9. FIGRUY W\obj\Debug\net5.0\9. FIGRUY W.AssemblyInfo.cs
+d:\PROGRAMY\9. FIGRUY W\obj\Debug\net5.0\9. FIGRUY W.csproj.CoreCompileInputs.cache
+d:\PROGRAMY\9. FIGRUY W\bin\Debug\net5.0\9. FIGRUY W.exe
+d:\PROGRAMY\9. FIGRUY W\bin\Debug\net5.0\9. FIGRUY W.deps.json
+d:\PROGRAMY\9. FIGRUY W\bin\Debug\net5.0\9. FIGRUY W.runtimeconfig.json
+d:\PROGRAMY\9. FIGRUY W\bin\Debug\net5.0\9. FIGRUY W.runtimeconfig.dev.json
+d:\PROGRAMY\9. FIGRUY W\bin\Debug\net5.0\9. FIGRUY W.dll
+d:\PROGRAMY\9. FIGRUY W\bin\Debug\net5.0\ref\9. FIGRUY W.dll
+d:\PROGRAMY\9. FIGRUY W\bin\Debug\net5.0\9. FIGRUY W.pdb
+d:\PROGRAMY\9. FIGRUY W\obj\Debug\net5.0\9. FIGRUY W.dll
+d:\PROGRAMY\9. FIGRUY W\obj\Debug\net5.0\ref\9. FIGRUY W.dll
+d:\PROGRAMY\9. FIGRUY W\obj\Debug\net5.0\9. FIGRUY W.pdb
+d:\PROGRAMY\9. FIGRUY W\obj\Debug\net5.0\9. FIGRUY W.genruntimeconfig.cache
