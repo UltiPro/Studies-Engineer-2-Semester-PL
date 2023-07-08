@@ -20,7 +20,7 @@ namespace TestProject1
         {
             //Arrange
 
-             var airport = new Airport(id,x,y,name,country,city,post_code);
+            var airport = new Airport(id, x, y, name, country, city, post_code);
 
             //Act
 
@@ -41,7 +41,7 @@ namespace TestProject1
             //Act
 
             var result = airport.shortToString();
-            
+
             //Assert
 
             Assert.IsInstanceOfType(result, typeof(string));

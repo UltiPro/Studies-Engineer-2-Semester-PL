@@ -4,21 +4,22 @@
 
 using namespace std;
 
-//Obiekt poprzez funkcje f zostaje skopiowany "powielony", nie działamy na oryginale.
+// Obiekt poprzez funkcje f zostaje skopiowany "powielony", nie działamy na oryginale.
 
-void f(Stos s, int a) {
-     s.push(a);
-     
+void f(Stos s, int a)
+{
+    s.push(a);
 }
 
-main() {
+main()
+{
     Stos s;
     s.push(0);
     f(s, 1);
-    f(s, 2); 
-    while(!s.empty()) {
-        cout << 
-        s.top();
+    f(s, 2);
+    while (!s.empty())
+    {
+        cout << s.top();
         s.pop();
     }
 }
@@ -49,5 +50,3 @@ int main()
     return 0;
 }
 */
-
-

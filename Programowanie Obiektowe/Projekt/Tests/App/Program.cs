@@ -78,7 +78,7 @@ namespace Objects
             return name;
         }
     }
-     class Airport : Object
+    class Airport : Object
     {
         private string country, city, post_code;
         public Airport(int id, int x, int y, string name, string country, string city, string post_code) : base(id, x, y, name)

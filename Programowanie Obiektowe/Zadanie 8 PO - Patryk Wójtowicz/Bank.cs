@@ -9,8 +9,8 @@ namespace Bankowosc
         private double saldo;
         public Konto(string nr)
         {
-            this.nr=nr;
-            saldo=0;
+            this.nr = nr;
+            saldo = 0;
         }
         public double getSaldo()
         {
@@ -22,13 +22,13 @@ namespace Bankowosc
         }
         public void wplac(double kwota)
         {
-            saldo+=kwota;
+            saldo += kwota;
         }
         public void wyplac(double kwota)
         {
-            if(saldo-kwota>=0)
+            if (saldo - kwota >= 0)
             {
-                saldo-=kwota;
+                saldo -= kwota;
             }
             else
             {
@@ -76,12 +76,12 @@ namespace Bankowosc
     }
     class Osoba : Klient
     {
-        private string imie,nazwisko,PESEL;
+        private string imie, nazwisko, PESEL;
     }
     class WaznaOsoba : Osoba { }
     class Firma : Klient
     {
-        private string nazwa,KRS;
+        private string nazwa, KRS;
     }
     class DuzaFirma : Firma { }
 }

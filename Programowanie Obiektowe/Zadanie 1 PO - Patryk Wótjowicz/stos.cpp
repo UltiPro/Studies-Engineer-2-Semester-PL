@@ -5,38 +5,38 @@ using namespace std;
 
 Stos::Stos(int i)
 {
-    stos=new int[i];
-    ktory_element=-1;
-    ile_elementow_stosu=i;
+    stos = new int[i];
+    ktory_element = -1;
+    ile_elementow_stosu = i;
 }
 
 Stos::~Stos()
 {
-    delete [] stos;
+    delete[] stos;
 };
 
 void Stos::push(int l)
 {
-    if(full())
+    if (full())
     {
-        cout<<"Nie ma miejsca na stosie"<<endl;
+        cout << "Nie ma miejsca na stosie" << endl;
     }
     else
     {
         ktory_element++;
-        stos[ktory_element]=l;
+        stos[ktory_element] = l;
     }
-} 
+}
 
 void Stos::pop()
 {
-    if(empty())
+    if (empty())
     {
-        cout<<"Nie ma liczb do usunieaca"<<endl;
+        cout << "Nie ma liczb do usunieaca" << endl;
     }
     else
     {
-        stos[ktory_element]==0;
+        stos[ktory_element] == 0;
         ktory_element--;
     }
 }
@@ -48,7 +48,7 @@ int Stos::top()
 
 bool Stos::empty()
 {
-    if(ktory_element==-1)
+    if (ktory_element == -1)
     {
         return true;
     }
@@ -60,7 +60,7 @@ bool Stos::empty()
 
 bool Stos::full()
 {
-    if((ktory_element+1)==ile_elementow_stosu)
+    if ((ktory_element + 1) == ile_elementow_stosu)
     {
         return true;
     }
@@ -72,13 +72,13 @@ bool Stos::full()
 
 void Stos::show()
 {
-    for(int i=ktory_element;i>=0;i--)
+    for (int i = ktory_element; i >= 0; i--)
     {
-        cout<<stos[i]<<endl;
+        cout << stos[i] << endl;
     }
 }
 
 void Stos::show_rozmiar()
 {
-    cout<<ile_elementow_stosu;
+    cout << ile_elementow_stosu;
 }

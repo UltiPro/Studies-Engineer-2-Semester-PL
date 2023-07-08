@@ -110,7 +110,7 @@ namespace Objects
     {
         private string type; // Type of the aircraft
         // Coordinates to move [route_x,route_y] in x,y positions, Departure and arrival id of Airports [departure_airport,arrival_airport], speed of Aircraft
-        private int route_x, route_y, departure_airport, arrival_airport, speed; 
+        private int route_x, route_y, departure_airport, arrival_airport, speed;
         // Date of deprture and arrival
         private DateTime departure_date, arrival_date;
         // Constructor
@@ -171,7 +171,7 @@ namespace Objects
         {
             if (route_x < 0) // If of direction to move Left or Right
             {
-                if(Math.Abs(route_x) < speed) // If of how much Aircrafte move
+                if (Math.Abs(route_x) < speed) // If of how much Aircrafte move
                 {
                     x -= Math.Abs(route_x);
                     route_x += Math.Abs(route_x);
@@ -184,7 +184,7 @@ namespace Objects
             }
             else if (route_x > 0) // If of direction to move Left or Right
             {
-                if(route_x < speed) // If of how much Aircrafte move
+                if (route_x < speed) // If of how much Aircrafte move
                 {
                     x += Math.Abs(route_x);
                     route_x -= Math.Abs(route_x);
@@ -201,7 +201,7 @@ namespace Objects
         {
             if (route_y < 0) // If of direction to move Upper or Down
             {
-                if(Math.Abs(route_y) < speed) // If of how much Aircrafte move
+                if (Math.Abs(route_y) < speed) // If of how much Aircrafte move
                 {
                     y -= Math.Abs(route_y);
                     route_y += Math.Abs(route_y);
@@ -214,7 +214,7 @@ namespace Objects
             }
             else if (route_y > 0) // If of direction to move Upper or Down
             {
-                if(route_y < speed) // If of how much Aircrafte move
+                if (route_y < speed) // If of how much Aircrafte move
                 {
                     y += Math.Abs(route_y);
                     route_y -= Math.Abs(route_y);
@@ -232,14 +232,14 @@ namespace Objects
             route_x = x_arrival - x;
             route_y = y_arrival - y;
             departure_date = time;
-            CalculateDelay(route_x,route_y,time);
+            CalculateDelay(route_x, route_y, time);
         }
         // Calculating time of travel between to places
-        public void CalculateDelay(int delay_x,int delay_y,DateTime time)
+        public void CalculateDelay(int delay_x, int delay_y, DateTime time)
         {
             // delay cannot be < 0, because it could back in time
-            if (delay_x < 0) delay_x *= (-1); 
-            if (delay_y < 0) delay_y *= (-1); 
+            if (delay_x < 0) delay_x *= (-1);
+            if (delay_y < 0) delay_y *= (-1);
             // Choosing possible square to move and left of distatance to move to calculate time , adding 1 to correct division by speed
             if (delay_x < delay_y) arrival_date = time.AddMinutes(((delay_x + (delay_y - delay_x)) / speed) + 1); // 
             else arrival_date = time.AddMinutes(((delay_y + (delay_x - delay_y)) / speed) + 1);
@@ -272,11 +272,11 @@ namespace Objects
         // Methode responsible for checking colision between all Aircrafts
         public bool CheckCollision()
         {
-            foreach(Aircraft f1 in AircraftList)
+            foreach (Aircraft f1 in AircraftList)
             {
                 foreach (Aircraft f2 in AircraftList)
                 {
-                    if ((f1.GetZ == f2.GetZ) && (f1.Getroute_y != 0 && f2.Getroute_y != 0) && (f1.Getroute_x!=0 && f2.Getroute_x!=0) && (f1.Get_Name() != f2.Get_Name()) && (f1.GetX + 5 >= f2.GetX && f1.GetX - 5 <= f2.GetX) && (f1.GetY + 5 >= f2.GetY && f1.GetY - 5 <= f2.GetY))
+                    if ((f1.GetZ == f2.GetZ) && (f1.Getroute_y != 0 && f2.Getroute_y != 0) && (f1.Getroute_x != 0 && f2.Getroute_x != 0) && (f1.Get_Name() != f2.Get_Name()) && (f1.GetX + 5 >= f2.GetX && f1.GetX - 5 <= f2.GetX) && (f1.GetY + 5 >= f2.GetY && f1.GetY - 5 <= f2.GetY))
                     {
                         // Changing altitute of aircrafts that were in possible collision course
                         if (f1.GetZ >= 8000 && f1.GetZ < 11000)

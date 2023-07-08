@@ -10,7 +10,7 @@ namespace Figury
             x = 0;
             y = 0;
         }
-        public Punkt(float _x,float _y)
+        public Punkt(float _x, float _y)
         {
             x = _x;
             y = _y;
@@ -44,8 +44,8 @@ namespace Figury
         {
             srodek = p;
         }
-        public virtual void przesun(int x,int y) { srodek.przesun(x,y); }
-        public virtual void skaluj(float skala) {}
+        public virtual void przesun(int x, int y) { srodek.przesun(x, y); }
+        public virtual void skaluj(float skala) { }
         public virtual float pole() { return -1; }
         public virtual float obwod() { return -1; }
 
@@ -57,19 +57,19 @@ namespace Figury
     class Kolo : Figura
     {
         float r;
-        public Kolo() : base() { r=1; }
-        public Kolo(Punkt p,float _r) : base(p) { r=_r; }
+        public Kolo() : base() { r = 1; }
+        public Kolo(Punkt p, float _r) : base(p) { r = _r; }
         public override void skaluj(float skala)
         {
-            r*=skala;
+            r *= skala;
         }
         public override float pole()
         {
-            return (float)Math.PI*r*r;
+            return (float)Math.PI * r * r;
         }
         public override float obwod()
         {
-            return 2*(float)Math.PI*r;
+            return 2 * (float)Math.PI * r;
         }
         public override string ToString()
         {
@@ -79,17 +79,17 @@ namespace Figury
     class Kwadrat : Figura
     {
         float a;
-        public Kwadrat() : base() 
+        public Kwadrat() : base()
         {
-            a=1;
+            a = 1;
         }
-        public Kwadrat(Punkt srodek,float a) : base(srodek)
+        public Kwadrat(Punkt srodek, float a) : base(srodek)
         {
-            this.a=a;
+            this.a = a;
         }
         public override void skaluj(float skala)
         {
-            a*=skala;
+            a *= skala;
         }
         public float dlugosc_boku()
         {
@@ -97,11 +97,11 @@ namespace Figury
         }
         public override float pole()
         {
-            return (float)Math.Pow(a,2);
+            return (float)Math.Pow(a, 2);
         }
         public override float obwod()
         {
-            return dlugosc_boku()*4;
+            return dlugosc_boku() * 4;
         }
         public override string ToString()
         {

@@ -29,42 +29,42 @@ namespace _8._BANK
             bigfirm.getKonta()[1].wplac(1000);
             bigfirm.dodajKonto(new Konto("9"));
             bigfirm.getKonta()[1].wplac(25);
-            
+
             bank.dodajKlienta(os);
             bank.dodajKlienta(osw);
             bank.dodajKlienta(firm);
             bank.dodajKlienta(bigfirm);
 
-            double suma1=0,suma2=0,suma3=0,suma4=0;
+            double suma1 = 0, suma2 = 0, suma3 = 0, suma4 = 0;
 
-            foreach(Klient o in bank.getKlienci())
+            foreach (Klient o in bank.getKlienci())
             {
-                if(o is Firma) 
+                if (o is Firma)
                 {
-                    foreach(Konto k in o.getKonta())
+                    foreach (Konto k in o.getKonta())
                     {
-                        suma1+=k.getSaldo();
+                        suma1 += k.getSaldo();
                     }
                 }
-                if(o is Osoba) 
+                if (o is Osoba)
                 {
-                    foreach(Konto k in o.getKonta())
+                    foreach (Konto k in o.getKonta())
                     {
-                        suma2+=k.getSaldo();
+                        suma2 += k.getSaldo();
                     }
                 }
-                if(o is DuzaFirma || o is WaznaOsoba) 
+                if (o is DuzaFirma || o is WaznaOsoba)
                 {
-                    foreach(Konto k in o.getKonta())
+                    foreach (Konto k in o.getKonta())
                     {
-                        suma3+=k.getSaldo();
+                        suma3 += k.getSaldo();
                     }
                 }
-                if(o is Osoba && !(o is WaznaOsoba)) 
+                if (o is Osoba && !(o is WaznaOsoba))
                 {
-                    foreach(Konto k in o.getKonta())
+                    foreach (Konto k in o.getKonta())
                     {
-                        suma4+=k.getSaldo();
+                        suma4 += k.getSaldo();
                     }
                 }
             }

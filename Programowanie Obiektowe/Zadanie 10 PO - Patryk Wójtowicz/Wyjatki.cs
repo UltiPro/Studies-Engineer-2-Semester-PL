@@ -4,7 +4,7 @@ namespace Wyjatki
 {
     class PozaZakresem : Exception
     {
-        public PozaZakresem() : base("Nie ma tyle miejsca w kolejce.") {}
+        public PozaZakresem() : base("Nie ma tyle miejsca w kolejce.") { }
     }
     class ZlyNumer : Exception
     {
@@ -15,11 +15,11 @@ namespace Wyjatki
         }
         public ZlyNumer(int n) : base("Zły Numer")
         {
-            num=n;
+            num = n;
         }
     }
     class PustaKolejka : Exception
     {
-        public PustaKolejka() : base("Kolejka jest pusta.") {}
+        public PustaKolejka() : base("Kolejka jest pusta.") { }
     }
 }

@@ -8,8 +8,9 @@ using namespace std;
 int main()
 {
     int rozmiar;
-    cout<<"Podaj rozmiar stosu: "; cin>>rozmiar; 
-    Stos stosik(rozmiar); 
+    cout << "Podaj rozmiar stosu: ";
+    cin >> rozmiar;
+    Stos stosik(rozmiar);
 
     stosik.show();
 
@@ -17,8 +18,3 @@ int main()
 
     return 0;
 }
-
-
-
-
-

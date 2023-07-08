@@ -22,7 +22,7 @@ namespace TrafficControlSystem
         public MainWindow()
         {
             InitializeComponent();
-            
+
             time = DateTime.Now; // Collectin current time
 
             // Adding to list of Airport airports 
@@ -78,7 +78,7 @@ namespace TrafficControlSystem
             }
         }
         // Checking if mouse is in border of the airport + changing look
-        private void Border_MouseEnter(object sender, System.Windows.Input.MouseEventArgs e) 
+        private void Border_MouseEnter(object sender, System.Windows.Input.MouseEventArgs e)
         {
             var border = sender as Border;
             border.Background = Brushes.Green;
@@ -168,7 +168,7 @@ namespace TrafficControlSystem
                 ChoosenAirportOne.Text = "";
             }
             if (a2 != null && button.Name.Equals(a2.Get_City() + "_Button"))
-            { 
+            {
                 a2 = null;
                 TextBlock_Info.Text = "Removed Arrival Airport!";
                 border.BorderBrush = Brushes.Red;
@@ -329,7 +329,7 @@ namespace TrafficControlSystem
             }
         }
         // Mouse Right Click at aircraft, Removeing aircraft from the container
-        private void Border_Plane_Right_Click(object sender, System.Windows.Input.MouseButtonEventArgs e) 
+        private void Border_Plane_Right_Click(object sender, System.Windows.Input.MouseButtonEventArgs e)
         {
             if (a != null)
             {

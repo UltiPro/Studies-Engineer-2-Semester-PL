@@ -4,7 +4,7 @@ using System.Windows.Media;
 
 namespace TrafficControlSystem
 {
-    public partial class AddFlight :  Window
+    public partial class AddFlight : Window
     {
         public AddFlight()
         {

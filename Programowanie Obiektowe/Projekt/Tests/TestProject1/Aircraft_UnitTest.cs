@@ -44,7 +44,7 @@ namespace TestProject1
 
 
         }
-        
+
         [TestMethod]
         public void Aircraft_ToString_ReturnString()
         {
